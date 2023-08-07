@@ -1,0 +1,14 @@
+**Database Name: secyear**
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+
+**Donor Login Details**
+
+Username: Helly20
+Password: test
